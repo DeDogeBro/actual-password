@@ -7,6 +7,6 @@ return false;
 }  
 
 if(document.getElementById('pass1').value == password){
-    alert('you got it :D  https://sites.google.com/view/bobthebuildereatspurplecheese/ dont tell anybody :p');    
+    alert('you got it :D dont tell anybody :p');    
     }    
 }
